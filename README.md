@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vedant1kadam
-- 👀 I’m interested in sports , music and coding
+- 👀 I’m interested in sports, music and coding.
 - 🌱 I’m currently learning programming language like python, javascritp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
